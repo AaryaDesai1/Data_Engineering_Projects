@@ -4,3 +4,6 @@
 [submodule "aad64_Polars-Script"]
 	path = aad64_Polars-Script
 	url = https://github.com/nogibjj/aad64_Polars-Script.git
+[submodule "aad64_Individual-Project1"]
+	path = aad64_Individual-Project1
+	url = https://github.com/nogibjj/aad64_Individual-Project1.git
