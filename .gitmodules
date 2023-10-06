@@ -1,3 +1,6 @@
 [submodule "aad64_Pandas-Script"]
 	path = aad64_Pandas-Script
 	url = https://github.com/nogibjj/aad64_Pandas-Script.git
+[submodule "aad64_Polars-Script"]
+	path = aad64_Polars-Script
+	url = https://github.com/nogibjj/aad64_Polars-Script.git
