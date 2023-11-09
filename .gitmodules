@@ -13,3 +13,18 @@
 [submodule "aad64_SQL_Start"]
 	path = aad64_SQL_Start
 	url = https://github.com/nogibjj/aad64_SQL_Start.git
+[submodule "aad64_Complex_SQL"]
+	path = aad64_Complex_SQL
+	url = https://github.com/nogibjj/aad64_Complex_SQL.git
+[submodule "aad64_command_line"]
+	path = aad64_command_line
+	url = https://github.com/nogibjj/aad64_command_line.git
+[submodule "aad64_cloud_hosted_nb"]
+	path = aad64_cloud_hosted_nb
+	url = https://github.com/nogibjj/aad64_cloud_hosted_nb.git
+[submodule "aad64_Individual_Project_2"]
+	path = aad64_Individual_Project_2
+	url = https://github.com/nogibjj/aad64_Individual_Project_2.git
+[submodule "aad64_PySpark"]
+	path = aad64_PySpark
+	url = https://github.com/nogibjj/aad64_PySpark.git
